@@ -105,4 +105,3 @@ Durations are my placeholder estimates for a knit with DTF and a patch, not fact
 ## Notes
 
 - Colorways follow the latest [[Burnout Henley]] tech pack (Off-White, Red, Sky Blue).
-- The tech pack still has typos to fix in the vault: "Sky bue", "sidecembroider" (side patch embroidered), and "Reworked from Blood Henley ." where the link text is missing.

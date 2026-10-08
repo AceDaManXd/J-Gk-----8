@@ -61,7 +61,7 @@ Soft, slim, and a little reckless. The burnout tread is the hero: it looks like 
 ## Hardware & Trims
 
 - Wooden four-hole buttons on placket and sleeves
-- Tire patch on sidecembroider
+- Tire side patch embroidered
 
 ---
 
@@ -69,7 +69,6 @@ Soft, slim, and a little reckless. The burnout tread is the hero: it looks like 
 
 - **Front graphic:** DTF transfer, dithered burnout tread running diagonally down the front. Shown as a smeared burnout with heavier ink at the lower body, fading toward the upper chest.
 - **Side patch:** tire-style patch on the side of the body, near the hem. Reads as a tire sidewall; can carry the wheel variation of the GK globe.
-- "gapklub" along bottom hem in dithered red (test against the black tread; may switch to black or off-white)
 - GK globe patch on lower right body is replaced by the side tire patch (confirm)
 
 ---
