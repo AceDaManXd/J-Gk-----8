@@ -1,7 +1,7 @@
 
 # [[GK]] [[Cargo 1]] Production Roadmap
 
-Part of [[s1 workwear production document]]. Source tech pack: [[Cargos NO.1]].
+Part of [[s1 workwear production document]]. Source tech pack: [[Cargo 1]]
 tags:
 
 - design/production
