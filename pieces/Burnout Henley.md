@@ -46,7 +46,7 @@ Soft, slim, and a little reckless. The burnout tread is the hero: it looks like 
 
 - Off-White
 - Red
-- Sky bue
+- Sky blue
 
 ---
 

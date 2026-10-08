@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "production documents/casual production document.md",
+                "file": "pieces/Burnout Henley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "casual production document"
+              "title": "Burnout Henley"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "bdb46456f9bb8848",
   "lastOpenFiles": [
-    "s1 casual production document.md",
     "production documents/casual production document.md",
+    "s1 casual production document.md",
     "production documents/workwear production document.md",
     "pieces/Simon Rugby Polo 1.md",
     "me.md/GK.md",
