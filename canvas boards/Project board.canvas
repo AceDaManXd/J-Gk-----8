@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"fcdae4d77459a1b3","x":-396,"y":-226,"width":400,"height":400,"type":"file","file":"pieces/Blood Henley 1.md"},
+		{"id":"d600efed4c94b065","x":-396,"y":238,"width":400,"height":400,"type":"file","file":"pieces/Simon Rugby Polo 1.md"},
+		{"id":"12c3edd01b0e449d","x":100,"y":238,"width":400,"height":400,"type":"file","file":"pieces/Triple Stitch Hoodie.md"},
+		{"id":"14f6d48728d5db0e","x":100,"y":-226,"width":400,"height":400,"type":"file","file":"pieces/Cargo 1.md"},
+		{"id":"7fa7c0079f23cb52","x":625,"y":-226,"width":400,"height":400,"type":"file","file":"pieces/Sailor Denim Jacket NO..md"},
+		{"id":"6b6e3639df924dd9","x":625,"y":238,"width":400,"height":400,"type":"file","file":"pieces/Heavy Knit 1.md"},
+		{"id":"6b99cba390b3a48b","x":-880,"y":-226,"width":400,"height":400,"type":"file","file":"pieces/Loop Jacket 1.md"},
+		{"id":"cb5b4c03e581e6dd","x":-880,"y":238,"width":400,"height":400,"type":"file","file":"pieces/Chicago Boots.md"},
+		{"id":"0e1679eb29634f8d","x":-160,"y":-880,"width":400,"height":400,"type":"file","file":"me.md/GK.md"}
+	],
+	"edges":[
+		{"id":"b3ee15a7817abf3d","fromNode":"0e1679eb29634f8d","fromSide":"bottom","toNode":"14f6d48728d5db0e","toSide":"top"},
+		{"id":"e350b54698efc633","fromNode":"0e1679eb29634f8d","fromSide":"bottom","toNode":"fcdae4d77459a1b3","toSide":"top"},
+		{"id":"fe92bc5fe14b8bbf","fromNode":"0e1679eb29634f8d","fromSide":"bottom","toNode":"6b99cba390b3a48b","toSide":"top"},
+		{"id":"d9f65d784a7a0c21","fromNode":"0e1679eb29634f8d","fromSide":"bottom","toNode":"7fa7c0079f23cb52","toSide":"top"},
+		{"id":"65ec7484f5fc600b","fromNode":"0e1679eb29634f8d","fromSide":"bottom","toNode":"6b6e3639df924dd9","toSide":"top"},
+		{"id":"3b666a48f364e904","fromNode":"0e1679eb29634f8d","fromSide":"bottom","toNode":"12c3edd01b0e449d","toSide":"top"},
+		{"id":"a7c78ae55258085a","fromNode":"0e1679eb29634f8d","fromSide":"bottom","toNode":"d600efed4c94b065","toSide":"top"},
+		{"id":"ebd629888ce59357","fromNode":"0e1679eb29634f8d","fromSide":"bottom","toNode":"cb5b4c03e581e6dd","toSide":"top"}
+	]
+}
