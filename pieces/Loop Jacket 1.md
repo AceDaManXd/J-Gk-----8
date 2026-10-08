@@ -11,16 +11,6 @@ sizing: TBD
 target-cost: TBD
 target-retail: TBD
 ---
----
-
-tags:
-
-- design/techpack
-- garment/jackets
-- status/in-development
-- casual category: Technical Outerwear / Shell factory-type: Technical outerwear (seam taping / shells) fit: Tailored performance, articulated sizing: TBD target-cost: TBD target-retail: TBD
-
----
 
 # [[GK]] Loop Jacket
 
