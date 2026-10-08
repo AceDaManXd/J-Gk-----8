@@ -15,7 +15,7 @@ target-retail: TBD
 
 # [[GK]] Burnout Henley
 
-Reworked from [[Blood Henley 1]]. Name is a placeholder (alternate: Skid Henley).
+Reworked from Blood Henley . 
 
 ## Overview
 
@@ -62,7 +62,7 @@ Black tread on green and navy has low contrast. Test a heavier black or a textur
 
 ## Hardware & Trims
 
-- Neutral matte four-hole buttons on placket and sleeves
+- Wooden four-hole buttons on placket and sleeves
 - Tire patch on side (material TBD: woven, embroidered, or molded rubber)
 
 ---
