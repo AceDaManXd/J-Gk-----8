@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sportswear production document.md",
+                "file": "pieces/Loop Jacket 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sportswear production document"
+              "title": "Loop Jacket 1"
             }
           }
         ],
@@ -239,9 +239,9 @@
   },
   "active": "bdb46456f9bb8848",
   "lastOpenFiles": [
+    "Sportswear production document.md",
     "production documents/casual production document.md",
     "production documents/workwear production document.md",
-    "Sportswear production document.md",
     "pieces/Burnout Henley.md",
     "s1 casual production document.md",
     "pieces/Simon Rugby Polo 1.md",
