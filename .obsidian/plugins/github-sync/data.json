@@ -1,7 +1,7 @@
 {
   "remoteURL": "https://github.com/AceDaManXd/J-Gk-----8.git",
   "gitLocation": "",
-  "syncinterval": 2,
+  "syncinterval": 1,
   "isSyncOnLoad": true,
   "checkStatusOnLoad": true,
   "noticeLevel": "WARNING",
