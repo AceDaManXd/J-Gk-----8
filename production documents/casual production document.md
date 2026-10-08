@@ -1,17 +1,13 @@
 ---
-
 tags:
-
-- design/production
-- garment/tops
-- status/concept
-- casual
-
+  - design/production
+  - casual
+  - status/in-development
 ---
 
 # [[GK]] [[Burnout Henley]] Production Roadmap
 
-Part of [[s1 casual production document]]. Source tech pack: [[Burnout Henley]].
+Part of [[casual production document]]. Source tech pack: [[Burnout Henley]].
 
 ## Sampling roadmap
 
