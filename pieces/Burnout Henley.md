@@ -46,7 +46,7 @@ Soft, slim, and a little reckless. The burnout tread is the hero: it looks like 
 
 - Off-White
 - Red
-- sky bue
+- Sky bue
 
 ---
 
@@ -90,8 +90,6 @@ Soft, slim, and a little reckless. The burnout tread is the hero: it looks like 
 - [ ] Source bamboo rib swatches in all 3 colors
 - [ ] Build the tread art (dithered burnout, from a real tire photo from a local meet or lot)
 - [ ] Test DTF stretched, not flat; check line distortion across the diagonal
-- [ ] Test the graphic over and around the placket and buttons
-- [ ] Test black ink contrast on forest green and deep navy
 - [ ] Make the wheel / tire patch artwork and choose the patch method
 - [ ] Prototype side patch stabilization on rib knit
 - [ ] Finalize button sizing
