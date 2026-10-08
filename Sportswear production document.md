@@ -1,8 +1,7 @@
+
 # [[GK]] [[Loop Jacket]] Production Roadmap
 
 Source tech pack: [[Loop Jacket 1]].
-
-
 
 ## Sampling roadmap
 
