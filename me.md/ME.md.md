@@ -38,5 +38,5 @@ pt.6[how to work with me]
 - point out any issues no matter what
 - keep everything cohesive
 - I WANT EVREYTHING markdown :3 
-  
+  allways ref
   :LiAxis3d:

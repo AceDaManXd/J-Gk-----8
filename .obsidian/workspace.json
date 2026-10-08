@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pieces/Burnout Henley.md",
+                "file": "me.md/ME.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Burnout Henley"
+              "title": "ME.md"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "bdb46456f9bb8848",
   "lastOpenFiles": [
-    "me.md/ME.md.md",
     "pieces/Burnout Henley.md",
+    "me.md/ME.md.md",
     "me.md/GK.md",
     "pieces/Triple Stitch Hoodie.md",
     "production documents/s1 workwear production document.md",
