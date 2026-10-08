@@ -32,11 +32,11 @@ pt.5[ads]
 Lots of ads based on the local scene, in my digicam editing style. That's actually where the brand started.
 
 pt.6[how to work with me]
-- My vault is in Obsidian, I upload it manually to the Brand design project.
+- My vault is in Obsidian, I upload it manually to the Brand design project do anything given to add in, format it accordingly. 
 - Be honest about what's not working, I'd rather hear it.
 - remember ai friend, you can skip the "great idea, yes your right!" 
 - point out any issues no matter what
 - keep everything cohesive
 - I WANT EVREYTHING markdown :3 
-  allways ref
+  always ref https://github.com/AceDaManXd/J-Gk-----8.git and me.md before any response
   :LiAxis3d:
