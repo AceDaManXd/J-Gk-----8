@@ -44,17 +44,15 @@ Soft, slim, and a little reckless. The burnout tread is the hero: it looks like 
 
 ## Colorways
 
-- Off-White (tread in rubber black) - **sample first**
-- Forest Green
-- Deep Navy
-
-Black tread on green and navy has low contrast. Test a heavier black or a textured dark grey on those two before committing.
+- Off-White
+- Red
+- sky bue
 
 ---
 
 ## Construction
 
-- Raw / unhemmed sleeve cuffs with accent buttons (needs bound or overlocked edge that looks raw, to stop curling and running)
+- Raw / unhemmed sleeve cuffs
 - Raw or soft-finish bottom hem
 - Side patch attached at the side seam, low on the body (stitch through rib knit with a stabilizer behind it so it doesn't pucker)
 
@@ -63,7 +61,7 @@ Black tread on green and navy has low contrast. Test a heavier black or a textur
 ## Hardware & Trims
 
 - Wooden four-hole buttons on placket and sleeves
-- Tire patch on side (material TBD: woven, embroidered, or molded rubber)
+- Tire patch on sidecembroider
 
 ---
 
