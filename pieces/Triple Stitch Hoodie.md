@@ -35,10 +35,10 @@ The stitch is the constant; the car is the variable. Three parallel lines of sti
 
 ## Fabric & Materials
 
-- Body: 100% cotton fleece, 400-500 GSM (lock a target)
-- Fleece (brushed back) vs. loopback terry: TBD
+- Body: 100% cotton fleece, 430
+- loopback terry
 - Rib (cuffs and hem): TBD
-- Wash: toned down. Light garment wash or very light distress on sleeve hems and bottom hem only. Heavy / acid / stone variations removed.
+- Wash: light distress on sleeve hems and bottom hem only. 
 
 ---
 
