@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pieces/Loop Jacket 1.md",
+                "file": "Sportswear production document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loop Jacket 1"
+              "title": "Sportswear production document"
             }
           }
         ],
@@ -237,8 +237,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e18ff3296f27e408",
+  "active": "bdb46456f9bb8848",
   "lastOpenFiles": [
+    "pieces/Loop Jacket.md",
+    "Loop Jacket.md",
     "Sportswear production document.md",
     "production documents/casual production document.md",
     "production documents/workwear production document.md",
@@ -258,7 +260,6 @@
     "canvas boards/inspo board.canvas",
     "pieces/Sailor Denim Jacket NO..md",
     "pieces/Heavy Knit 1.md",
-    "pieces/Loop Jacket 1.md",
     "Untitled",
     "me.md",
     "pieces",

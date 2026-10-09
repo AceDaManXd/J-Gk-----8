@@ -1,6 +1,6 @@
 # [[GK]] [[Loop Jacket]] Production Roadmap
 
-Source tech pack: [[Loop Jacket 1]].
+Source tech pack: [[pieces/Loop Jacket]]. tags:
 
 - design/production
 - garment/jackets
@@ -29,7 +29,23 @@ These durations are placeholder estimates, not factory quotes. Update after phas
 
 ## Colorways
 
-TBD. Direction: brighter and crazier. Pick launch colors after swatches, then approve a master swatch per color.
+Palette is taken from a ripstop nylon swatch card. Each colorway has the classic box logo in one color; loop straps are always black with a slightly lighter glossy printed seatbelt-style pattern, and the box logo is raised rugged rubber.
+
+|Colorway group|Body|Box logo|Sample order|
+|:--|:--|:--|:--|
+|Forest green|Forest green|White|TBD|
+|Other greens|Bright green, lime|Forest green|TBD|
+|Red|Red|White|TBD|
+|Pink|Hot pink|Pink (tone on tone)|TBD|
+|Yellow / orange|Yellow, orange|White|TBD|
+|Blues / purples|Blue, royal blue, purple, violet|Black|TBD|
+|Black on black|Black|Black (tone on tone)|TBD|
+|Black|Black|White|TBD|
+|Greys|Charcoal, light grey|White|TBD|
+|White on white|White|White (tone on tone)|TBD|
+|White|White|Black|TBD|
+
+That is 11 groups before shade variants. Pick two or three to sample first (a bright, a black, and a tone-on-tone is a useful spread) and add the rest after the proto proves out.
 
 ---
 
@@ -47,7 +63,9 @@ TBD. Direction: brighter and crazier. Pick launch colors after swatches, then ap
 
 ### 1. Sourcing and quotes
 
-- [ ] Source coated Nylon 6,6 swatches in bright colors
+- [ ] Source coated Nylon 6,6 swatches in the swatch-card colors; check weight and whether the card's ripstop is heavy enough for a jacket
+- [ ] Find a printer for the glossy strap pattern on black coated nylon
+- [ ] Get rubber box logo quotes (mold, rugged rubber, per-color) and ask how it attaches to coated nylon
 - [ ] Source soft lining
 - [ ] Source matte black coil zippers (match waterproof level)
 - [ ] Source shock-cord adjusters
@@ -66,6 +84,8 @@ TBD. Direction: brighter and crazier. Pick launch colors after swatches, then ap
 - [ ] Build one or two colorways first
 - [ ] Check loop anchor stitching and hem construction
 - [ ] Check every edge is bound, taped, or sealed
+- [ ] Print the strap pattern and check scale, gloss, and logo placement
+- [ ] Check rubber logo sits flat, doesn't crack when the jacket folds, and stays attached
 
 ### 4. Fit sample
 
@@ -95,6 +115,10 @@ TBD. Direction: brighter and crazier. Pick launch colors after swatches, then ap
 |Fabric|Color bleed|Bright and dark fabrics stain each other in rain or wash|Wet rub and wash test||
 |Finish|Edges|Raw edges fray on cut nylon|Bound, taped, or sealed edges everywhere||
 |Branding|Heat transfer|Peels on coated fabric|Adhesion test after coating and after wash||
+|Branding|Strap print|Glossy print cracks, fades, or rubs off the black base at the hem anchor and flex points|Rub, flex, and wash test; test ink on final coating||
+|Branding|Tone-on-tone box logo|Pink, black, and white rubber logos on matching bodies may still blend in|Raised relief helps; review on proto and check under flat light||
+|Branding|Rubber box logo|Rugged rubber is stiff; cracks at folds, peels off coated nylon, or adds weight|Peel, flex, and wash test; confirm attachment method with factory||
+|Fabric|Black straps on light bodies|Black dye bleeds onto white or pale bodies in rain or wash|Wet rub and wash test on the white and light colorways||
 |Branding|Molded patch|Detaches or cracks|Flex and wash test||
 |Lining|Soft lining|Shows through or snags on seam tape|Check lining against tape lines||
 |Hardware|Zippers|Wrong waterproof level for coating|Match zipper to final coating decision||
