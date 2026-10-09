@@ -94,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bdb46456f9bb8848",
+  "active": "bb8f7e41df569c2d",
   "lastOpenFiles": [
     "Sportswear production document.md",
     "production documents/casual production document.md",
