@@ -62,7 +62,7 @@ Palette comes from a ripstop nylon swatch card (forest green through white). Eac
 
 ## Construction
 
-- Normal hood (adjustment details TBD)
+- Normal hood
 - Loops attach at the shoulder / front, run in a U to the back, and are stuck down on the bottom hem at the same spot front and back
 - Loops read as seatbelt-style straps: black base with a slightly lighter glossy printed woven pattern (print, not woven-in)
 - Loops are permanently attached (no snap or fastener) and may flap slightly
@@ -73,7 +73,7 @@ Palette comes from a ripstop nylon swatch card (forest green through white). Eac
 
 ## Hardware & Trims
 
-- Matte black coil zippers (waterproof vs. water-resistant: TBD with coating decision)
+- Matte black coil zippers 
 - Low-profile shock-cord adjusters
 
 ---
@@ -82,7 +82,6 @@ Palette comes from a ripstop nylon swatch card (forest green through white). Eac
 
 - Classic box logo in a single color per colorway (see colorway table), raised rugged rubber (molded)
 - Custom molded silicone/rubber patch (primary)
-- High-density heat transfer logos (secondary; test adhesion on coated fabric)
 
 ---
 
