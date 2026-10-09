@@ -105,23 +105,23 @@ That is 11 groups before shade variants. Pick two or three to sample first (a br
 
 ## Risks and tests (phase 5)
 
-|Area|Item|Risk|Test / mitigation|Result|
-|---|---|---|---|---|
-|Construction|Taped seams|Long curved loop seams are hard to tape; leaks at hem anchor|Ask factory early; water test on proto||
-|Construction|Loop anchor|Hem anchor tears under pull or snag|Pull test; reinforce anchor stitching||
-|Construction|Loop path|Pulls on collar or bunches at shoulder|Mock-up first; check on fit model||
-|Fabric|Coated hand|Coating feels stiff and plasticky; loops flap stiffly|Approve swatch for drape and noise||
-|Fabric|Bright dye|Hard to match color across lots|Approve master swatch; agree tolerance with factory||
-|Fabric|Color bleed|Bright and dark fabrics stain each other in rain or wash|Wet rub and wash test||
-|Finish|Edges|Raw edges fray on cut nylon|Bound, taped, or sealed edges everywhere||
-|Branding|Heat transfer|Peels on coated fabric|Adhesion test after coating and after wash||
-|Branding|Strap print|Glossy print cracks, fades, or rubs off the black base at the hem anchor and flex points|Rub, flex, and wash test; test ink on final coating||
-|Branding|Tone-on-tone box logo|Pink, black, and white rubber logos on matching bodies may still blend in|Raised relief helps; review on proto and check under flat light||
-|Branding|Rubber box logo|Rugged rubber is stiff; cracks at folds, peels off coated nylon, or adds weight|Peel, flex, and wash test; confirm attachment method with factory||
-|Fabric|Black straps on light bodies|Black dye bleeds onto white or pale bodies in rain or wash|Wet rub and wash test on the white and light colorways||
-|Branding|Molded patch|Detaches or cracks|Flex and wash test||
-|Lining|Soft lining|Shows through or snags on seam tape|Check lining against tape lines||
-|Hardware|Zippers|Wrong waterproof level for coating|Match zipper to final coating decision||
+| Area         | Item                         | Risk                                                                                     | Test / mitigation                                                 | Result |
+| ------------ | ---------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------ |
+| Construction | Taped seams                  | Long curved loop seams are hard to tape; leaks at hem anchor                             | Ask factory early; water test on proto                            |        |
+| Construction | Loop anchor                  | Hem anchor tears under pull or snag                                                      | Pull test; reinforce anchor stitching                             |        |
+| Construction | Loop path                    | Pulls on collar or bunches at shoulder                                                   | Mock-up first; check on fit model                                 |        |
+| Fabric       | Coated hand                  | Coating feels stiff and plasticky; loops flap stiffly                                    | Approve swatch for drape and noise                                |        |
+| Fabric       | Bright dye                   | Hard to match color across lots                                                          | Approve master swatch; agree tolerance with factory               |        |
+| Fabric       | Color bleed                  | Bright and dark fabrics stain each other in rain or wash                                 | Wet rub and wash test                                             |        |
+| Finish       | Edges                        | Raw edges fray on cut nylon                                                              | Bound, taped, or sealed edges everywhere                          |        |
+| Branding     | Heat transfer                | Peels on coated fabric                                                                   | Adhesion test after coating and after wash                        |        |
+| Branding     | Strap print                  | Glossy print cracks, fades, or rubs off the black base at the hem anchor and flex points | Rub, flex, and wash test; test ink on final coating               |        |
+| Branding     | Tone-on-tone box logo        | Pink, black, and white rubber logos on matching bodies may still blend in                | Raised relief helps; review on proto and check under flat light   |        |
+| Branding     | Rubber box logo              | Rugged rubber is stiff; cracks at folds, peels off coated nylon, or adds weight          | Peel, flex, and wash test; confirm attachment method with factory |        |
+| Fabric       | Black straps on light bodies | Black dye bleeds onto white or pale bodies in rain or wash                               | Wet rub and wash test on the white and light colorways            |        |
+| Branding     | Molded patch                 | Detaches or cracks                                                                       | Flex and wash test                                                |        |
+| Lining       | Soft lining                  | Shows through or snags on seam tape                                                      | Check lining against tape lines                                   |        |
+| Hardware     | Zippers                      | Wrong waterproof level for coating                                                       | Match zipper to final coating decision                            |        |
 
 ---
 
