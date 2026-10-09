@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pieces/Heavy Knit 1.md",
+                "file": "production documents/casual production document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heavy Knit 1"
+              "title": "casual production document"
             }
           }
         ],
@@ -239,9 +239,10 @@
   },
   "active": "bdb46456f9bb8848",
   "lastOpenFiles": [
+    "pieces/Simon Rugby Polo 1.md",
+    "pieces/Heavy Knit 1.md",
     "pieces/Chicago Boots.md",
     "pieces/Burnout Henley.md",
-    "pieces/Heavy Knit 1.md",
     "pieces/Triple Stitch Hoodie.md",
     "Sportswear production document.md",
     "pieces/Loop Jacket.md",
@@ -249,7 +250,6 @@
     "production documents/casual production document.md",
     "production documents/workwear production document.md",
     "s1 casual production document.md",
-    "pieces/Simon Rugby Polo 1.md",
     "me.md/GK.md",
     "me.md/ME.md.md",
     "pieces/Cargo 1.md",
