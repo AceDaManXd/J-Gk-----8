@@ -40,7 +40,7 @@ The loop is the concept: a decorative silhouette feature that is part of the gar
 
 ## Colorways
 
-Palette comes from a ripstop nylon swatch card (forest green through white). Each colorway has the classic box logo in one color.
+Palette comes from a ripstop nylon swatch card (forest green through white). Each colorway has the classic box logo made from stitched and backed rubber in one color.
 
 |Colorway group|Body|Box logo|
 |:--|:--|:--|
@@ -56,7 +56,7 @@ Palette comes from a ripstop nylon swatch card (forest green through white). Eac
 |White on white|White|White (tone on tone)|
 |White|White|Black|
 
-Exact shades and which to launch first: TBD. Loop straps are black on every colorway, so on the black bodies the strap reads by its glossy print only.
+ Loop straps are black on every colorway, so on the black bodies the strap reads by its glossy print only.
 
 ---
 
