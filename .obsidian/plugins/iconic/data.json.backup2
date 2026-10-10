@@ -28,7 +28,24 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "canvas boards": {
+      "icon": "lucide-map",
+      "color": "green"
+    },
+    "me.md": {
+      "icon": "lucide-circle-user",
+      "color": "blue"
+    },
+    "pieces": {
+      "icon": "lucide-shirt",
+      "color": "pink"
+    },
+    "production documents": {
+      "icon": "lucide-factory",
+      "color": "red"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
