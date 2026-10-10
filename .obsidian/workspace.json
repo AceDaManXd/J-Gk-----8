@@ -10,15 +10,13 @@
           {
             "id": "0efe3b8f5ba2d041",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "production documents/workwear production document.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "workwear production document"
+              "title": "Juggl"
             }
           },
           {
@@ -238,6 +236,7 @@
   },
   "active": "0efe3b8f5ba2d041",
   "lastOpenFiles": [
+    "production documents/workwear production document.md",
     "production documents/casual production document.md",
     "pieces/Simon Rugby Polo 1.md",
     "pieces/Heavy Knit 1.md",
@@ -247,7 +246,6 @@
     "Sportswear production document.md",
     "pieces/Loop Jacket.md",
     "Loop Jacket.md",
-    "production documents/workwear production document.md",
     "s1 casual production document.md",
     "me.md/GK.md",
     "me.md/ME.md.md",
