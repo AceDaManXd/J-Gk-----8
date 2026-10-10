@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GK Cargos NO.1.md",
+                "file": "production documents/workwear production document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GK Cargos NO.1"
+              "title": "workwear production document"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "casual production document"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,8 +236,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bdb46456f9bb8848",
+  "active": "0efe3b8f5ba2d041",
   "lastOpenFiles": [
+    "production documents/casual production document.md",
     "pieces/Simon Rugby Polo 1.md",
     "pieces/Heavy Knit 1.md",
     "pieces/Chicago Boots.md",
@@ -247,7 +247,6 @@
     "Sportswear production document.md",
     "pieces/Loop Jacket.md",
     "Loop Jacket.md",
-    "production documents/casual production document.md",
     "production documents/workwear production document.md",
     "s1 casual production document.md",
     "me.md/GK.md",
