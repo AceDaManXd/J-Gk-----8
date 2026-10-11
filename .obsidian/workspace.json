@@ -37,17 +37,14 @@
             "id": "0f275b675866e655",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas boards/Project board.canvas",
-                "viewState": {
-                  "x": 72.5,
-                  "y": -121,
-                  "zoom": -2.533232919047414
-                }
+                "file": "pieces/Cargo 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Project board"
+              "icon": "lucide-file",
+              "title": "Cargo 1"
             }
           }
         ],
@@ -254,6 +251,7 @@
   },
   "active": "0f275b675866e655",
   "lastOpenFiles": [
+    "canvas boards/Project board.canvas",
     "production documents/casual production document.md",
     "production documents/workwear production document.md",
     "pieces/Simon Rugby Polo 1.md",
@@ -272,7 +270,6 @@
     "My Notes GK 2026/27/LICENSE",
     "My Notes GK 2026/27",
     "My Notes GK 2026",
-    "canvas boards/Project board.canvas",
     "canvas boards/inspo board.canvas",
     "pieces/Sailor Denim Jacket NO..md",
     "Untitled",
