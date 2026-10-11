@@ -32,8 +32,26 @@
               "icon": "lucide-file",
               "title": "casual production document"
             }
+          },
+          {
+            "id": "0f275b675866e655",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas boards/Project board.canvas",
+                "viewState": {
+                  "x": 72.5,
+                  "y": -121,
+                  "zoom": -2.533232919047414
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Project board"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,10 +252,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0efe3b8f5ba2d041",
+  "active": "0f275b675866e655",
   "lastOpenFiles": [
-    "production documents/workwear production document.md",
     "production documents/casual production document.md",
+    "production documents/workwear production document.md",
     "pieces/Simon Rugby Polo 1.md",
     "pieces/Heavy Knit 1.md",
     "pieces/Chicago Boots.md",
