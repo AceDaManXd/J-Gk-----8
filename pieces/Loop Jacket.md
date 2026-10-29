@@ -68,7 +68,8 @@ Palette comes from a ripstop nylon swatch card (forest green through white). Eac
 - Loops are permanently attached (no snap or fastener) and may flap slightly
 - No raw edges anywhere: bound, taped, or sealed finishes
 - Articulated sleeves
-
+- closer to an Antora jacket that anything
+- soft interior lining
 ---
 
 ## Hardware & Trims
