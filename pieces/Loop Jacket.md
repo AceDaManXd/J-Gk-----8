@@ -69,7 +69,7 @@ Palette comes from a ripstop nylon swatch card (forest green through white). Eac
 - No raw edges anywhere: bound, taped, or sealed finishes
 - Articulated sleeves
 - closer to an Antora jacket that anything
-- soft interior lining
+- soft synthetic fabric interior lining
 ---
 
 ## Hardware & Trims
