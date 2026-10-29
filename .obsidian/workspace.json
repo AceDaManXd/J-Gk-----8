@@ -15,8 +15,8 @@
               "type": "juggl_view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
+              "icon": "lucide-ghost",
+              "title": "juggl_view"
             }
           },
           {
@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pieces/Cargo 1.md",
+                "file": "pieces/Burnout Henley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cargo 1"
+              "title": "Burnout Henley"
             }
           }
         ],
@@ -251,6 +251,7 @@
   },
   "active": "0f275b675866e655",
   "lastOpenFiles": [
+    "pieces/Cargo 1.md",
     "canvas boards/Project board.canvas",
     "production documents/casual production document.md",
     "production documents/workwear production document.md",
@@ -265,7 +266,6 @@
     "s1 casual production document.md",
     "me.md/GK.md",
     "me.md/ME.md.md",
-    "pieces/Cargo 1.md",
     "Cargos NO.1.md",
     "My Notes GK 2026/27/LICENSE",
     "My Notes GK 2026/27",
