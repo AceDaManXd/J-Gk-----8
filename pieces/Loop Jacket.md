@@ -73,8 +73,8 @@ Palette comes from a ripstop nylon swatch card (forest green through white). Eac
 
 ## Hardware & Trims
 
-- Matte black coil zippers 
-- Low-profile shock-cord adjusters
+- Matte black or white coil zippers 
+- Low-profile shock-cord adjusters inside
 
 ---
 
