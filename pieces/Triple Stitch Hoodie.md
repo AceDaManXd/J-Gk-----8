@@ -49,17 +49,17 @@ Rotating colorways, each with a different printed car.
 | Colorway | Base color | Thread color | Printed car | Status    |
 | -------- | ---------- | ------------ | ----------- | --------- |
 | 01       | white      | red          | c6          | **First** |
-| 02       | white      | yellow       | 56 camaro   | **First** |
+| 02       | white      | yellow       | 5g camaro   | **First** |
 
-- How many colorways in the first drop: TBD
-- What "rotating" means (new colorway per drop, or a fixed set that cycles): TBD
+- How many colorways in the first drop: 2
+- each drop gets a new pair of hoodies 
 
 ---
 
 ## Construction
 
 - **Hero: 3-needle coverstitch** along panel lines
-    - Role of the stitch: structural flatlock seam, or topstitch over an overlocked seam: TBD (ask factory)
+    -  structural flatlock seam
     - Panel lines that carry it: TBD (needs a panel layout)
     - Thread: tone-on-tone vs. contrast, and whether it changes per colorway: TBD
 - Attached hood (no snaps, no removable neckline). Single or double layer, drawcord, eyelets: TBD
