@@ -48,11 +48,11 @@ Palette comes from a ripstop nylon swatch card (forest green through white). Eac
 | Other greens    | Bright green, lime               | Forest green         |
 | Red             | Red                              | White                |
 | Pink            | Hot pink                         | Pink (tone on tone)  |
-| Yellow / orange | Yellow, orange                   | orange               |
-| Blues / purples | Blue, royal blue, purple, violet | Black                |
+| Yellow / orange | Yellow, orange                   | Orange               |
+| Blues / purples | Blue, royal blue, purple, violet | White                |
 | Black on black  | Black                            | Black (tone on tone) |
 | Black           | Black                            | White                |
-| Greys           | Charcoal, light grey             | White                |
+| Greys           | Charcoal, light grey             | Grey (tone on tone)  |
 | White on white  | White                            | White (tone on tone) |
 | White           | White                            | Black                |
 
