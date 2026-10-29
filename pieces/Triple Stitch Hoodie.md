@@ -46,10 +46,10 @@ The stitch is the constant; the car is the variable. Three parallel lines of sti
 
 Rotating colorways, each with a different printed car.
 
-| Colorway | Base color | Thread color | Printed car    | Status    |
-| -------- | ---------- | ------------ | -------------- | --------- |
-| 01       | white      | red          | c6             | **First** |
-| 02       | white      | yellow       | 3rd gen camaro | **First** |
+| Colorway | Base color | Thread color | Printed car | Status    |
+| -------- | ---------- | ------------ | ----------- | --------- |
+| 01       | white      | red          | c6          | **First** |
+| 02       | white      | yellow       | 56 camaro   | **First** |
 
 - How many colorways in the first drop: TBD
 - What "rotating" means (new colorway per drop, or a fixed set that cycles): TBD
