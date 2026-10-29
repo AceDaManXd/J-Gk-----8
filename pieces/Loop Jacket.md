@@ -42,19 +42,19 @@ The loop is the concept: a decorative silhouette feature that is part of the gar
 
 Palette comes from a ripstop nylon swatch card (forest green through white). Each colorway has the classic box logo made from stitched and backed rubber in one color.
 
-|Colorway group|Body|Box logo|
-|:--|:--|:--|
-|Forest green|Forest green|White|
-|Other greens|Bright green, lime|Forest green|
-|Red|Red|White|
-|Pink|Hot pink|Pink (tone on tone)|
-|Yellow / orange|Yellow, orange|White|
-|Blues / purples|Blue, royal blue, purple, violet|Black|
-|Black on black|Black|Black (tone on tone)|
-|Black|Black|White|
-|Greys|Charcoal, light grey|White|
-|White on white|White|White (tone on tone)|
-|White|White|Black|
+| Colorway group  | Body                             | Box logo             |
+| :-------------- | :------------------------------- | :------------------- |
+| Forest green    | Forest green                     | White                |
+| Other greens    | Bright green, lime               | Forest green         |
+| Red             | Red                              | White                |
+| Pink            | Hot pink                         | Pink (tone on tone)  |
+| Yellow / orange | Yellow, orange                   | orange               |
+| Blues / purples | Blue, royal blue, purple, violet | Black                |
+| Black on black  | Black                            | Black (tone on tone) |
+| Black           | Black                            | White                |
+| Greys           | Charcoal, light grey             | White                |
+| White on white  | White                            | White (tone on tone) |
+| White           | White                            | Black                |
 
  Loop straps are black on every colorway, so on the black bodies the strap reads by its glossy print only.
 
