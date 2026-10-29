@@ -61,11 +61,9 @@ Rotating colorways, each with a different printed car.
 - **Hero: 3-needle coverstitch** along panel lines
     -  structural flatlock seam
     - Panel lines that carry it: TBD (needs a panel layout)
-    - Thread: tone-on-tone vs. contrast, and whether it changes per colorway: TBD
+    - Thread: contrast tone changes with the cars color per colorway
 - Attached hood (no snaps, no removable neckline). Single or double layer, drawcord, eyelets: TBD
 - Kangaroo pocket with hidden YKK #3 coil zip pouch
-- Shoulder fastener: undefined. Define or cut.
-
 ---
 
 ## Hardware & Trims
