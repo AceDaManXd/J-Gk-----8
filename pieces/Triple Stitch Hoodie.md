@@ -70,7 +70,6 @@ Rotating colorways, each with a different printed car.
 
 - Lightweight coil zipper inside pouch
 - Drawcord / eyelets: TBD (depends on hood spec)
-- ~~Metal hood snaps~~ (removed)
 
 ---
 
@@ -85,11 +84,8 @@ Rotating colorways, each with a different printed car.
 ## Open Questions
 
 - [ ]  Target GSM?
-- [ ]  Is the coverstitch structural or topstitch, and on which panel lines?
-- [ ]  Thread color: tone-on-tone or contrast?
-- [ ]  What is the shoulder fastener, or cut it?
 - [ ]  Print method on 400-500 GSM fleece, and print before or after the wash?
-- [ ]  Which cars, and are real makes/models/logos okay to print? (Check before art is final; not legal advice, ask an IP attorney if unclear.)
+- [ ]  Which cars are okay to print? 
 - [ ]  Does embroidery still make sense with prints, and how does it sit with the wash order?
 - [ ]  Base colors and rib spec
 
