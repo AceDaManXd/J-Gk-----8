@@ -69,7 +69,6 @@ Soft, slim, and a little reckless. The burnout tread is the hero: it looks like 
 
 - **Front graphic:** DTF transfer, dithered burnout tread running diagonally down the front. Shown as a smeared burnout with heavier ink at the lower body, fading toward the upper chest.
 - **Side patch:** tire-style patch on the side of the body, near the hem. Reads as a tire sidewall; can carry the wheel variation of the GK globe.
-- GK globe patch on lower right body is replaced by the side tire patch (confirm)
 
 ---
 
