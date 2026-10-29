@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pieces/Burnout Henley.md",
+                "file": "pieces/Triple Stitch Hoodie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Burnout Henley"
+              "title": "Triple Stitch Hoodie"
             }
           }
         ],
@@ -251,6 +251,7 @@
   },
   "active": "0f275b675866e655",
   "lastOpenFiles": [
+    "pieces/Burnout Henley.md",
     "pieces/Cargo 1.md",
     "canvas boards/Project board.canvas",
     "production documents/casual production document.md",
@@ -258,7 +259,6 @@
     "pieces/Simon Rugby Polo 1.md",
     "pieces/Heavy Knit 1.md",
     "pieces/Chicago Boots.md",
-    "pieces/Burnout Henley.md",
     "pieces/Triple Stitch Hoodie.md",
     "Sportswear production document.md",
     "pieces/Loop Jacket.md",
